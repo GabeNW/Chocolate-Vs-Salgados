@@ -1,3 +1,4 @@
 # Gamejam2
 
-Jogo que eu fiz com um amigo numa Gamejam
+WASD/Setas - Movimentação
+Mouse1 - Atirar
