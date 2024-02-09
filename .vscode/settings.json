@@ -52,5 +52,5 @@
         "Temp/": true
     },
     "dotnet.preferCSharpExtension": true,
-    "dotnet.defaultSolution": "Projeto-C.sln"
+    "dotnet.defaultSolution": "Gamejam 2.sln"
 }
